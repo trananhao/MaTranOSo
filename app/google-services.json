@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "112998612015",
+    "firebase_url": "https://matranoso.firebaseio.com",
+    "project_id": "matranoso",
+    "storage_bucket": "matranoso.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112998612015:android:42f44a138c0f5d3c939ada",
+        "android_client_info": {
+          "package_name": "com.example.matranoso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112998612015-am46lgsm8loej0fh35of04jifi15c4bk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.matranoso",
+            "certificate_hash": "891b5698ba39d6485d3e767719a9002c27f01ec1"
+          }
+        },
+        {
+          "client_id": "112998612015-9mo6eoko39gs1ndsuc9rlo5v7sv3sam5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZccZgsMAgYbcf7kF5xrp50PfrOYp0mOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112998612015-9mo6eoko39gs1ndsuc9rlo5v7sv3sam5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

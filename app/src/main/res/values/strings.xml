@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MaTranOSo</string>
+    <string name="huongdan">Chọn số thích hợp điền vào ô trống để có phép tính đúng.</string>
+    <string name="choi">CHƠI</string>
+    <string name="batnhac">BẬT NHẠC</string>
+    <string name="btnhuongdan">HƯỚNG DẪN</string>
+</resources>

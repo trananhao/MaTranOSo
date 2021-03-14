@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.example.matranoso.custom.TXVOVuong
+        android:id="@+id/txvHienThi"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="2dp"
+        android:background="@drawable/bg_o_choi"
+        android:gravity="center"
+        android:text="8"
+        android:textColor="#000"
+        android:textSize="18sp" />
+
+</RelativeLayout>
